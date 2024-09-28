@@ -5,6 +5,8 @@ Code Trivia is an application that will test your knowledge of the history of co
 
 ![Description](media/Code Trivia.MOV)
 [Watch the app demo here](https://www.youtube.com/watch?v=your-video-id)
+[![App Demo](path/to/thumbnail-image.jpg)](https://www.youtube.com/watch?v=your-video-id)
+
 
 <br>
 <br>
