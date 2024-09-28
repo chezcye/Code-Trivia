@@ -7,10 +7,11 @@ Code Trivia is an application that will test your knowledge of the history of co
 + Final Score Screen
 <br>
  Here’s a screenshot showing the different features screens of the Code Trivia App, demonstrating its functionality and user interface. You can explore the full code and details within the repository.
-
-<img width="372" alt="Welcome Screen" src="https://github.com/user-attachments/assets/9b5638f8-25cb-4302-9461-e773f570837c">
-<img width="372" alt="Questions Screen" src="https://github.com/user-attachments/assets/bc994dc9-ff97-4b9b-92c7-b3f3e1feff6c">
-<img width="381" alt="Final Score Screen" src="https://github.com/user-attachments/assets/614c810a-818e-4a53-aa26-2d31113b6552">
+<br>
+<br>
+<img width="248" alt="Welcome Screen" src="https://github.com/user-attachments/assets/9b5638f8-25cb-4302-9461-e773f570837c">
+<img width="248" alt="Questions Screen" src="https://github.com/user-attachments/assets/bc994dc9-ff97-4b9b-92c7-b3f3e1feff6c">
+<img width="248" alt="Final Score Screen" src="https://github.com/user-attachments/assets/614c810a-818e-4a53-aa26-2d31113b6552">
 
 
 
